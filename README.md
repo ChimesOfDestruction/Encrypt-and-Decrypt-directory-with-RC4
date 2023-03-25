@@ -1,2 +1,7 @@
 # Encrypt-and-Decrypt-directory-with-RC4
-Example project for encrypting and decrypting files, with help from ChatGPT.
+Video showcase:
+
+
+https://user-images.githubusercontent.com/127018596/227745247-13215cac-d7c5-46b6-969f-1346fadf6776.mp4
+
+
