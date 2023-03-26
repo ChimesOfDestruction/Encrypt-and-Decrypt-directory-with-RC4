@@ -1,4 +1,8 @@
 # Encrypt and Decrypt directory with RC4
+This project was just a test to see how ChatGPT could help build a project.  
+I do not suggest you use it seriously, there isn't much error handling.  
+But it did do good when I had tested it on test directories with many files.  
+######
 With this tool you can encrypt a directory recursively with a special password.  
 It will also leave a note in the directory with a specified filename & message.   
 It excludes ".ini" files and has an option to skip files if they are too large.  
