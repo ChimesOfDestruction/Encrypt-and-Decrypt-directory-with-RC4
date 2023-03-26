@@ -1,6 +1,6 @@
 # Encrypt and Decrypt directory with RC4
 With this tool you can encrypt a directory recursively with a special password.  
-It will also leave a note in the directory with a specified filename & message. 
+It will also leave a note in the directory with a specified filename & message.   
 It excludes ".ini" files and has an option to skip files if they are too large.  
 ###### 
 If you want to not depend on the .dll after it is built.  
